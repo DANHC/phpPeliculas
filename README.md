@@ -1,2 +1,0 @@
-# phpTienda
-proyecto php
